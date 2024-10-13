@@ -1,0 +1,263 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMW M8 Competition</title>
+    <style>
+        body { 
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #257180;
+            padding: 20px 30px;
+            text-align: center;
+            color: white;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+        img {
+            margin: 20px 0;
+        }
+        table {
+            margin: 20px auto;
+            border-collapse: collapse;
+            width: 80%;
+            max-width: 600px;
+            background: white;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background: #257180;
+            color: white;
+        }
+        footer {
+            background: #257180;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>BMW</h1>
+    </header>
+    <main>
+        <h2>BMW M8 Competition</h2>
+        <img width="300px" src="https://www.bmw.ua/content/dam/bmw/common/all-models/m-series/m8-gran-coupe/2022/navigation/bmw-m8-competition-gran-coupe-modelfinder.png" alt="BMW M8 Competition">
+        <p>Ціна: 4,000,000 грн</p>
+        <h3>Характеристики</h3>
+        
+        <table>
+            <tr>
+                <th>Характеристика</th>
+                <th>Значення</th>
+            </tr>
+            <tr>
+                <td>Тип силового агрегату</td>
+                <td>Бензин</td>
+            </tr>
+            <tr>
+                <td>Потужність (кВт/к.с.)</td>
+                <td>441 (600)</td>
+            </tr>
+            <tr>
+                <td>Крутний момент (Нм)</td>
+                <td>750</td>
+            </tr>
+            <tr>
+                <td>Трансмісія</td>
+                <td>8-ступінчаста</td>
+            </tr>
+            <tr>
+                <td>Циліндри</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>Робочий об'єм (см³)</td>
+                <td>4395</td>
+            </tr>
+            <tr>
+                <td>Розгін 0–100 км/год (с)</td>
+                <td>3.0</td>
+            </tr>
+            <tr>
+                <td>Максимальна швидкість (км/год)</td>
+                <td>305</td>
+            </tr>
+            <tr>
+                <td>Витрата пального (місто/траса)</td>
+                <td>10.5 / 7.5 л/100 км</td>
+            </tr>
+            <tr>
+                <td>Двигун</td>
+                <td>V8 TwinPower Turbo</td>
+            </tr>
+        </table>
+
+        <h2>BMW F90 Competition</h2>
+        <img width="300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8u12YcX9d4xwxIbFei8kV8kTv8h-oH0hcZw&s" alt="BMW F90 Competition">
+        <p>Ціна: 5,391,100 грн</p>
+        <h3>Характеристики</h3>
+        
+        <table>
+            <tr>
+                <th>Характеристика</th>
+                <th>Значення</th>
+            </tr>
+            <tr>
+                <td>Тип силового агрегату</td>
+                <td>Бензин</td>
+            </tr>
+            <tr>
+                <td>Потужність (кВт/к.с.)</td>
+                <td>441 (600)</td>
+            </tr>
+            <tr>
+                <td>Крутний момент (Нм)</td>
+                <td>750</td>
+            </tr>
+            <tr>
+                <td>Трансмісія</td>
+                <td>8-ступінчаста автоматична</td>
+            </tr>
+            <tr>
+                <td>Циліндри</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>Робочий об'єм (см³)</td>
+                <td>4395</td>
+            </tr>
+            <tr>
+                <td>Розгін 0–100 км/год (с)</td>
+                <td>3.4</td>
+            </tr>
+            <tr>
+                <td>Максимальна швидкість (км/год)</td>
+                <td>305 (обмежена)</td>
+            </tr>
+            <tr>
+                <td>Витрата пального (місто/траса)</td>
+                <td>10.5 / 7.5 л/100 км</td>
+            </tr>
+            <tr>
+                <td>Двигун</td>
+                <td>V8 TwinPower Turbo</td>
+            </tr>
+        </table>
+
+        <h2>BMW M8 Competition Cabriolet</h2>
+        <img width="300px" src="https://res.cloudinary.com/unix-center/image/upload/c_limit,dpr_3.0,f_auto,fl_progressive,g_center,h_240,q_auto:good,w_385/upov2oppawbwldqm152s.jpg" alt="BMW M8 Competition Cabriolet">
+        <p>Ціна: 6,842,550 грн</p>
+        <h3>Характеристики</h3>
+        
+        <table>
+            <tr>
+                <th>Характеристика</th>
+                <th>Значення</th>
+            </tr>
+            <tr>
+                <td>Тип силового агрегату</td>
+                <td>Бензин</td>
+            </tr>
+            <tr>
+                <td>Потужність (кВт/к.с.)</td>
+                <td>441 (600)</td>
+            </tr>
+            <tr>
+                <td>Крутний момент (Нм)</td>
+                <td>750</td>
+            </tr>
+            <tr>
+                <td>Трансмісія</td>
+                <td>8-ступінчаста автоматична</td>
+            </tr>
+            <tr>
+                <td>Циліндри</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>Робочий об'єм (см³)</td>
+                <td>4395</td>
+            </tr>
+            <tr>
+                <td>Розгін 0–100 км/год (с)</td>
+                <td>3.3</td>
+            </tr>
+            <tr>
+                <td>Максимальна швидкість (км/год)</td>
+                <td>305 (обмежена)</td>
+            </tr>
+            <tr>
+                <td>Витрата пального (місто/траса)</td>
+                <td>10.5 / 7.5 л/100 км</td>
+            </tr>
+            <tr>
+                <td>Двигун</td>
+                <td>V8 TwinPower Turbo</td>
+            </tr>
+        </table>
+
+        <h3>Контакти</h3>
+        <p>Адреса: вулиця Зв'язківців, 1а, Луцьк, Волинська область, 43000</p>
+        <p>Номер телефону: 068 727 3135</p>
+
+        <h3>Розклад роботи</h3>
+        <table style="margin: auto;">
+            <tr>
+                <th>День</th>
+                <th>Години</th>
+            </tr>
+            <tr>
+                <td>Неділя</td>
+                <td>Зачинено</td>
+            </tr>
+            <tr>
+                <td>Понеділок</td>
+                <td>09:00–18:00</td>
+            </tr>
+            <tr>
+                <td>Вівторок</td>
+                <td>09:00–18:00</td>
+            </tr>
+            <tr>
+                <td>Середа</td>
+                <td>09:00–18:00</td>
+            </tr>
+            <tr>
+                <td>Четвер</td>
+                <td>09:00–18:00</td>
+            </tr>
+            <tr>
+                <td>Пʼятниця</td>
+                <td>09:00–18:00</td>
+            </tr>
+            <tr>
+                <td>Субота</td>
+                <td>09:00–15:00</td>
+            </tr>
+        </table>
+    </main>
+    <footer>
+        <p>&copy; 2024 BMW. Всі права захищені.</p>
+    </footer>
+</body>
+</html>
+
+
+
+
+
+
+
